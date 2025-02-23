@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [Gen Ai Intro](notes/udemy-notes/gen-ai-bedrock/1-gen-ai-intro.md)
-2. [Getting Started](#getting-started)
+2. [Getting Started](notes/udemy-notes/2-amazon-bedrock.md)
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
