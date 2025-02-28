@@ -52,6 +52,12 @@ def check_balance(brackets):
     return check == 0
         
         
+a = 10
+b = 15
+
+
+        
+        
         
     
     
