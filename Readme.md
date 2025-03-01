@@ -6,3 +6,4 @@
 # Azure Ai Studio
 
 1. [Azuire Ai Intro](azure-ai-studio/notes/intro/intro.md)
+2. [Azuire Ai Studio](azure-ai-studio/notes/intro/azure-ai-studio.md)
