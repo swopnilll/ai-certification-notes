@@ -12,6 +12,7 @@
 # ML Concepts
 
 1. [Classification - SuperVised Learning](azure-ai-studio/notes/ml-concept/classification-supervised.md)
+1. [Regression - SuperVised Learning](azure-ai-studio/notes/ml-concept/classification-regression.md)
 
 # Math Concepts
 
