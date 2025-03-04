@@ -14,6 +14,7 @@
 1. [Classification - SuperVised Learning](azure-ai-studio/notes/ml-concept/classification-supervised.md)
 2. [Regression - SuperVised Learning](azure-ai-studio/notes/ml-concept/classification-regression.md)
 3. [Un SuperVised Learning](azure-ai-studio/notes/ml-concept/unsupervised-learning.md)
+4. [ReInforcement Learning](azure-ai-studio/notes/ml-concept/reinforcement-learning.md)
 
 # Math Concepts
 
